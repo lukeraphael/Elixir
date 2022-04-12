@@ -4,7 +4,7 @@ The Elixir is a monoblock ergonomic mechanical keyboard with support for most ke
 
 ## Purpose
 
-The Elixir was born out of a desire to create an 'introductory' ergonomic mechanical keyboard. It's simple and inexpensive construction will allow those who want to 'give it a shot' to do so without much time or monetary investment. Furthermore, it supports regular modifiers on the outer most-columns, reducing friction to those who already have their own keycap sets.
+The Elixir was born out of a desire to create an 'introductory' ergonomic mechanical keyboard. Its simple and inexpensive construction enables those who want to 'give it a shot' to do so without much time or monetary investment. Furthermore, it supports regular modifiers on the outer most-columns, reducing friction to those who already have their own keycap sets.
 
 ## QMK Firmware
 
