@@ -2,7 +2,7 @@
 
 The Elixir is a monoblock ergonomic mechanical keyboard with support for most keycap kits. The design has been greatly inspired by the [Atreus](https://github.com/technomancy/atreus), [Sweep](https://github.com/davidphilipbarr/Sweep) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards.
 
-# Purpose
+## Purpose
 
 The Elixir was born out of a desire to create an 'introductory' ergonomic mechanical keyboard. It's simple and inexpensive construction will allow those who want to 'give it a shot' to do so without much time or monetary investment. Furthermore, it supports regular modifiers on the outer most-columns, reducing friction to those who already have their own keycap sets.
 
