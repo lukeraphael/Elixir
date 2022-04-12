@@ -1,8 +1,6 @@
 # Elixir
 
-The Elixir is a monoblock ergonomic mechanical keyboard that has support for most keycap kits. The design has been greatly inspired by the [Atreus](https://github.com/technomancy/atreus), [Sweep](https://github.com/davidphilipbarr/Sweep) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards.
-
-![torn](./doc/img/torn.jpg)
+The Elixir is a monoblock ergonomic mechanical keyboard with support for most keycap kits. The design has been greatly inspired by the [Atreus](https://github.com/technomancy/atreus), [Sweep](https://github.com/davidphilipbarr/Sweep) and [Sofle](https://github.com/josefadamcik/SofleKeyboard) keyboards.
 
 # Purpose
 
