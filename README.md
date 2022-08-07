@@ -22,6 +22,12 @@ The Elixir was born out of a desire to create an 'introductory' ergonomic mechan
 
 ![Product](./doc/img/product.jpg)
 
+## Install firmware
+Steps:
+1. Copy qmk/keyboards/elixir to your local qmk folder
+2. ```qmk flash -kb elixir -km default```
+3. Plug in your micro controller and set it to flashing mode (connect reset and ground pins twice)
+
 ## License
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
